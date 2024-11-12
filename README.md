@@ -1,0 +1,1 @@
+# faria-config-server
